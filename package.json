@@ -1,0 +1,17 @@
+{
+  "name": "node-api-nodb-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/server.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "const": "^1.0.0",
+    "express": "^4.16.3",
+    "joi": "^14.0.1"
+  },
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "author": "Razbek Sulim Ursultanov",
+  "license": "ISC"
+}
